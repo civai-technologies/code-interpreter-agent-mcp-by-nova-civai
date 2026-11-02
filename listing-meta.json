@@ -1,0 +1,23 @@
+{
+  "slug": "code-interpreter-agent",
+  "repo": "code-interpreter-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/code-interpreter-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gemini-cli-extension",
+    "code-interpreter",
+    "python",
+    "sandbox",
+    "code",
+    "interpreter"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/code-interpreter-agent"
+}
